@@ -16,6 +16,9 @@
       ]
     ],
     "name": "simple-mail",
-    "slug": "simple-mail"
+    "slug": "simple-mail",
+    "experiments": {
+      "typedRoutes": true
+    }
   }
 }
