@@ -16,9 +16,18 @@
       ]
     ],
     "name": "simple-mail",
-    "slug": "simple-mail",
+    "slug": "just-mail",
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": "https://n"
+      },
+      "eas": {
+        "projectId": "77fcab1d-194c-435c-a849-538b25e60c60"
+      }
+    },
+    "owner": "agustinfranchetti"
   }
 }
